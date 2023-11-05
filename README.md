@@ -1,5 +1,5 @@
 <div align="center"> 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFD731&)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFD731)
 
 ### Welcome to haazzero github 👋
 
