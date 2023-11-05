@@ -1,14 +1,14 @@
-<div align="center">
- 
 ### Welcome to haazzero github 👋
 
+<div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFCC5C&height=200&section=header&text=🐤&fontSize=90" /
 </div>
 
 <div align=center>
- 
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p> 
 <!-- 기술 스택 --> 
-####  :clipboard: Once I've Used 
- <br/>
+<br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
