@@ -5,10 +5,9 @@
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>Tech Stack</h3>
 	<p>✨ Platforms & Languages ✨</p> 
 <!-- 기술 스택 --> 
-<br/> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -27,11 +26,11 @@
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> -->
  <br/>
  <br/>
+<h3>Blog</h3>
+<!-- 개인 블로그 -->
+<a href="https://haazzero-log.vercel.app/"><img src="https://img.shields.io/badge/haazzero-000000?style=for-the-badge&logo=vercel&logoColor=white"></a><br><br/>
 <!-- 방문자수 --> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaazzero%2Fhit-counter&count_bg=%23FFD731&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-
-<!-- 개인 블로그 -->
-<br><a href="https://haazzero-log.vercel.app/"><img src="https://img.shields.io/badge/haazzero Blog-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </div>
 
 <!--
